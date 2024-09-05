@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+I am a student of the Analysis, Development and Integration of Systems at Eniac. I consider myself an enthusiast for new technologies, currently my studies are in programming and cloud.  
+
 <!--
 **VictorAugustoMartinez/VictorAugustoMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
